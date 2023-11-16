@@ -1,5 +1,6 @@
 import { NavItemType } from "../shared/Navigation/NavigationItem";
 import ncNanoId from "../utils/ncNanoid";
+// isNew=true in MEGAMENU_TEMPLATES[0]
 
 const MEGAMENU_DEMO: NavItemType[] = [
   {
