@@ -1,6 +1,7 @@
 import { NavItemType } from "../shared/Navigation/NavigationItem";
 import ncNanoId from "../utils/ncNanoid";
-// isNew=true in MEGAMENU_TEMPLATES[0]
+// isNew=true in MEGAMENU_TEMPLATES[0] 
+// href: "/#", links that go nowhere but are hovers and clicks
 
 const MEGAMENU_DEMO: NavItemType[] = [
   {
